@@ -17,5 +17,3 @@ This is a repository with solutions of problems in SoftUni Course: Programming F
 14. Bitwise Operations
 15. Regular Expressions
 16. Database Basics
-17. 
-
